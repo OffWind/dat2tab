@@ -1,8 +1,14 @@
 !!$--------!---------!---------!---------!---------!---------!---------%
 !!$
-!!$     File Name: DAT2TAB.F90 
+!!$     File Name: DAT2TAB.F90
 !!$
-!!$     Author: CSS.02.2011 
+!!$     Author:    Carlos Silva Santos, Megajoule Inovação Lda.
+!!$
+!!$     URL:       www.megajoule.pt
+!!$
+!!$     Version:   2.0
+!!$
+!!$     Date:      21.October.2012
 !!$
 !!$--------!---------!---------!---------!---------!---------!---------%
 program dat2tab
